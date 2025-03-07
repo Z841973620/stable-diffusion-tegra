@@ -2,7 +2,8 @@
 
 ![IMG](./IMG.png)
 
-container environments: jetpack5.1.2(ubuntu20.04), cuda11.4.19, python3.10, pytorch2.1.2, compiled for sm_72(Xavier) and sm_87(Orin)
+container environments:
+jetpack5.1.2(ubuntu20.04), cuda11.4.19, python3.10, pytorch2.1.2, compiled for sm_72(Xavier) and sm_87(Orin)
 
 pull and run built container:
 ```
